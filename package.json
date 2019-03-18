@@ -1,0 +1,11 @@
+{
+  "name": "text_background_animation",
+  "version": "1.0.0",
+  "description": "Text Background Animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvan KDM",
+  "license": "MIT"
+}
