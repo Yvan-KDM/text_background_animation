@@ -3,6 +3,8 @@ body {
   background: #000;
   color: #fff;
   overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -24,8 +26,8 @@ body {
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-  animation: moveBg 90s linear infinite;
-  -webkit-animation: moveBg 90s linear infinite;
+  animation: moveBg 95s linear infinite;
+  -webkit-animation: moveBg 95s linear infinite;
 }
 
 /* Text Backgroung Animation*/
